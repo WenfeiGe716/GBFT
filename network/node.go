@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"../consensus"
+	"GBFT/consensus"
 )
 
 type Node struct {

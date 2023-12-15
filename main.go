@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"./network"
+	"GBFT/network"
 )
 
 func main() {

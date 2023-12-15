@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"../consensus"
+	"GBFT/consensus"
 )
 
 type Server struct {

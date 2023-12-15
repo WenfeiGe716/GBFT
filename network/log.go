@@ -3,7 +3,7 @@ package network
 import (
 	"fmt"
 
-	"../consensus"
+	"GBFT/consensus"
 )
 
 func LogMsg(msg interface{}) {
